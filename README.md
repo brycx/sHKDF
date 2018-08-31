@@ -5,7 +5,7 @@
 **Highly experimental** backdoor-resistant salted-HMAC-based Key Derivation function.
 
 An HKDF implementation that is resistant to backdoors in the hashing primitives
-compression function. You can read more about this implementation [here](2018/08/27/securing-hkdf-against-backdoors.html).
+compression function. You can read more about this implementation [here](https://brycx.github.io/2018/08/27/securing-hkdf-against-backdoors.html).
 
 
 
